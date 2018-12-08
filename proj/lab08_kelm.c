@@ -303,7 +303,7 @@ int main() {
 }
 
 int main() {
-	// zad 46
+	// zad 61
 
 	// info o programie
 	printf("Program wypisuje godzine z zachowaniem form gramatycznych.\n");
