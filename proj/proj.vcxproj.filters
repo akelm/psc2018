@@ -14,4 +14,30 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lab01_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab02_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab03_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab04_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab05_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab06_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab07_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab08_kelm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="lab01_kelm.c" />
+    <ClCompile Include="lab02_kelm.c" />
+    <ClCompile Include="lab03_kelm.c" />
+    <ClCompile Include="lab04_kelm.c" />
+    <ClCompile Include="lab05_kelm.c" />
+    <ClCompile Include="lab06_kelm.c" />
+    <ClCompile Include="lab07_kelm.c" />
+    <ClCompile Include="lab08_kelm.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
