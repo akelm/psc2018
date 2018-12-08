@@ -310,9 +310,9 @@ int main() {
 	printf("Autor: Anna Kelm.\n\n");
 
 	// wczytywanie danych i spr popr
-	int godzina, minuty;
-	char znak;
-	bool poprawnedane = false;
+	int godzina, minuty; // przechowuje wczytana godzine i minuty
+	char znak; // znak wczytywany z bufora klawiatury
+	bool poprawnedane = false; // czy zostaly wczytane dane
 
 	while (!poprawnedane) {
 		
