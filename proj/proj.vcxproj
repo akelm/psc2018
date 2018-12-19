@@ -123,6 +123,7 @@
     <ClCompile Include="lab06_kelm.c" />
     <ClCompile Include="lab07_kelm.c" />
     <ClCompile Include="lab08_kelm.c" />
+    <ClCompile Include="lab09_kelm.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
